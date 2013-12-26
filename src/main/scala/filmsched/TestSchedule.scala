@@ -34,5 +34,6 @@ object TestSchedule {
 	   }
 	   
 	   println(Scheduler.greedySchedule(value.flatten.toSet))
+	   println(new ConstraintScheduler().schedule(value.flatten.toSet))
 	}
 }
