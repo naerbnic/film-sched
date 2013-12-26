@@ -4,7 +4,7 @@ import scala.collection.SortedSet
 
 object Scheduler {
   def filmScore(film: Film): Double = {
-    0.0
+    film.rating
   }
   
   def findBestNext(showtimes: Seq[Showtime]): (Showtime, Seq[Showtime]) = {

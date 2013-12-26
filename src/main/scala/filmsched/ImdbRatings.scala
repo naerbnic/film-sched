@@ -13,6 +13,7 @@ object ImdbRatings {
 	      "plot" -> "none")
 	  
 	  val ratings = Http(request OK as.String) map { jsonDoc =>
+	    println(jsonDoc)
 	    for {
 	      JArray(array) <- parse(jsonDoc)
 	      JObject(movieObject) <- array

@@ -18,9 +18,9 @@ object TestSchedule {
 	     movie <- json.children
 	   } yield {
 	     val title = (movie \ "title").extract[String]
-	     println(title)
 	     val length = Duration.standardMinutes((movie \ "length").extract[Int].toLong)
-	     val film = Film(title, length)
+	     val rating = (movie \ "rating").extract[Int]
+	     val film = Film(title, length, rating)
 	     
 	     val showtimes = for {
 	       showtime <- (movie \ "showtimes").children

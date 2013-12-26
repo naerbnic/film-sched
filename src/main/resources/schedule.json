@@ -2,6 +2,7 @@
   {
     "title": "More than Honey",
     "length": 95,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 10:00",
@@ -12,6 +13,7 @@
   {
     "title": "Young & Beautiful",
     "length": 95,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 13:00",
@@ -22,6 +24,7 @@
   {
     "title": "Grazing the Sky",
     "length": 87,
+    "rating": 1,
     "showtimes": [
       {
         "start-time": "2013-01-09 16:00",
@@ -32,6 +35,7 @@
   {
     "title": "My Sweet Pepper Land",
     "length": 86,
+    "rating", 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 19:00",
@@ -42,6 +46,7 @@
   {
     "title": "Han Gong Ju",
     "length": 102,
+    "rating": 3,
     "showtimes": [
       {
         "start-time": "2013-01-09 10:00",
@@ -52,6 +57,7 @@
   {
     "title": "Keeper of Lost Causes",
     "length": 97,
+    "rating": 3,
     "showtimes": [
       {
         "start-time": "2013-01-09 10:30",
@@ -62,6 +68,7 @@
   {
     "title": "Salvation Army",
     "length": 86,
+    "rating": 0,
     "showtimes": [
       {
         "start-time": "2013-01-09 13:00",
@@ -72,6 +79,7 @@
   {
     "title": "Secret Screening",
     "length": 90,
+    "rating": 0,
     "showtimes": [
       {
         "start-time": "2013-01-09 13:30",
@@ -82,6 +90,7 @@
   {
     "title": "Root",
     "length": 87,
+    "rating": 3,
     "showtimes": [
       {
         "start-time": "2013-01-09 14:00",
@@ -92,6 +101,7 @@
   {
     "title": "La Jaula de Oro",
     "length": 110,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 16:00",
@@ -102,6 +112,7 @@
   {
     "title": "The Priest's Children",
     "length": 93,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 16:30",
@@ -112,6 +123,7 @@
   {
     "title": "Two Mothers",
     "length": 75,
+    "rating": 0,
     "showtimes": [
       {
         "start-time": "2013-01-09 17:00",
@@ -122,6 +134,7 @@
   {
     "title": "Blind Dates",
     "length": 95,
+    "rating": 3,
     "showtimes": [
       {
         "start-time": "2013-01-09 19:00",
@@ -132,6 +145,7 @@
   {
     "title": "Test",
     "length": 90,
+    "rating": 0,
     "showtimes": [
       {
         "start-time": "2013-01-09 19:30",
@@ -142,6 +156,7 @@
   {
     "title": "Bastardo",
     "length": 106,
+    "rating": 1,
     "showtimes": [
       {
         "start-time": "2013-01-09 20:00",
@@ -152,6 +167,7 @@
   {
     "title": "Strictly Ballroom"
     "length": 94,
+    "rating": 0,
     "showtimes": [
       {
         "start-time": "2013-01-09 10:00",
@@ -162,6 +178,7 @@
   {
     "title": "The Dog",
     "length": 130,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 13:00",
@@ -172,6 +189,7 @@
   {
     "title": "Gore Vidal",
     "length": 89,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 16:00",
@@ -182,6 +200,7 @@
   {
     "title": "Continental",
     "length": 94,
+    "rating": 0,
     "showtimes": [
       {
         "start-time": "2013-01-09 19:00",
@@ -192,6 +211,7 @@
   {
     "title": "Generation War Part 1",
     "length": 131,
+    "rating": 3,
     "showtimes": [
       {
         "start-time": "2013-01-09 14:00",
@@ -202,6 +222,7 @@
   {
     "title": "Words and Pictures",
     "length": 120,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 19:00",
@@ -212,6 +233,7 @@
   {
     "title": "Back to 1942"
     "length": 145,
+    "rating": 1,
     "showtimes": [
       {
         "start-time": "2013-01-09 09:30",
@@ -222,6 +244,7 @@
   {
     "title": "Grand Central",
     "length": 94,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 10:00",
@@ -232,6 +255,7 @@
   {
     "title": "Two Lives",
     "length": 100,
+    "rating": 3,
     "showtimes": [
       {
         "start-time": "2013-01-09 10:30",
@@ -242,6 +266,7 @@
   {
     "title": "Cupcakes",
     "length": 90,
+    "rating": 1,
     "showtimes": [
       {
         "start-time": "2013-01-09 11:00",
@@ -252,6 +277,7 @@
   {
     "title": "Living is Easy",
     "length": 108,
+    "rating": 3,
     "showtimes": [
       {
         "start-time": "2013-01-09 11:30",
@@ -262,6 +288,7 @@
   {
     "title": "Alan Partridge",
     "length": 90,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 12:30",
@@ -272,6 +299,7 @@
   {
     "title": "Child's Pose",
     "length": 112,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 13:00",
@@ -282,6 +310,7 @@
   {
     "title": "Of Horses and Men",
     "length": 80,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 13:30",
@@ -292,6 +321,7 @@
   {
     "title": "Hidden Hills",
     "length": 73,
+    "rating": 0,
     "showtimes": [
       {
         "start-time": "2013-01-09 14:00",
@@ -302,6 +332,7 @@
   {
     "title": "Left Foot Right Foot",
     "length": 105,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 14:30",
@@ -312,6 +343,7 @@
   {
     "title": "Vic and Flo Saw a Bear",
     "length": 95,
+    "rating": 0,
     "showtimes": [
       {
         "start-time": "2013-01-09 15:30",
@@ -322,6 +354,7 @@
   {
     "title": "The Great Passage",
     "length": 133,
+    "rating": 3,
     "showtimes": [
       {
         "start-time": "2013-01-09 16:00",
@@ -332,6 +365,7 @@
   {
     "title": "Lovers",
     "length": 95,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 16:30",
@@ -342,6 +376,7 @@
   {
     "title": "Five Dances",
     "length": 83,
+    "rating": 0,
     "showtimes": [
       {
         "start-time": "2013-01-09 17:00",
@@ -352,6 +387,7 @@
   {
     "title": "Roa",
     "length": 98,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 17:30",
@@ -362,6 +398,7 @@
   {
     "title": "Gaming Instinct",
     "length": 104,
+    "rating": 3,
     "showtimes": [
       {
         "start-time": "2013-01-09 18:30",
@@ -372,6 +409,7 @@
   {
     "title": "Reaching for the Moon",
     "length": 118,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 19:00",
@@ -382,6 +420,7 @@
   {
     "title": "Enemy",
     "length": 90,
+    "rating": 3,
     "showtimes": [
       {
         "start-time": "2013-01-09 19:30",
@@ -392,6 +431,7 @@
   {
     "title": "Miele",
     "length": 96,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 20:00",
@@ -402,6 +442,7 @@
   {
     "title": "In Secret",
     "length": 72,
+    "rating": 2,
     "showtimes": [
       {
         "start-time": "2013-01-09 20:30",
