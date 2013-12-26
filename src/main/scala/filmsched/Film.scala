@@ -1,5 +1,5 @@
 package filmsched
 
-import org.joda.time.Period
+import com.github.nscala_time.time.Imports._
 
-case class Film(title: String, length: Period)
+case class Film(title: String, length: Duration)
