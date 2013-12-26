@@ -19,7 +19,7 @@ object TestSchedule {
 	   } yield {
 	     val title = (movie \ "title").extract[String]
 	     val length = Duration.standardMinutes((movie \ "length").extract[Int].toLong)
-	     val rating = (movie \ "rating").extract[Int]
+	     val rating = (movie \ "rating").extract[Double]
 	     val film = Film(title, length, rating)
 	     
 	     val showtimes = for {
