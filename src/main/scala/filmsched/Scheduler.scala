@@ -7,8 +7,6 @@ object Scheduler {
     0.0
   }
   
-  class FilmRatings
-  
   def findBestNext(showtimes: SortedSet[Showtime]): (Showtime, SortedSet[Showtime]) = {
     val first = showtimes.head
     val rest = showtimes.tail
