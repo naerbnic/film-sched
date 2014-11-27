@@ -36,7 +36,6 @@ object TestSchedule {
 	     showtimes
 	   }
 	   
-	   println(Scheduler.greedySchedule(value.flatten.toSet))
 	   println(new ConstraintScheduler().schedule(value.flatten.toSet))
 	}
 }
