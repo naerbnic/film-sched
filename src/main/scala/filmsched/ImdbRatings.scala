@@ -3,7 +3,8 @@ package filmsched
 import scala.concurrent.Future
 import dispatch._
 import dispatch.Defaults._
-import net.liftweb.json._
+import spray.json._
+import DefaultJsonProtocol._
 
 object ImdbRatings {
 	def ratingsForTitle(title: String): Future[Double] = {
@@ -14,14 +15,17 @@ object ImdbRatings {
 	  
 	  val ratings = Http(request OK as.String) map { jsonDoc =>
 	    println(jsonDoc)
-	    for {
-	      JArray(array) <- parse(jsonDoc)
-	      JObject(movieObject) <- array
-	      JField("rating", JDouble(rating)) <- movieObject
-	    } yield rating
+      val parsedJson = jsonDoc.parseJson
+      val JsArray(objects) = parsedJson
+      
+      for { obj <- objects } yield {
+        val Seq(ratingVal) = obj.asJsObject.getFields("rating")
+        val JsNumber(rating) = ratingVal
+        rating
+      }
 	  }
 	  
-	  ratings.map(_.head)
+	  ratings.map(_.head.doubleValue())
 	}
 	
 	def ratingsForTitleNow(title: String): Double = {

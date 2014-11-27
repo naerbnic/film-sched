@@ -26,9 +26,13 @@ case class Showtime(film: Film, startTime: DateTime, theater: Theater) {
       timeBetween < minTimeBetween
     }
   }
+  
+  override def toString() =
+    s"Showtime('${film.title}' @ ${startTime.toString(Showtime.printFmt)})"
 }
 
 object Showtime {
-  val SAME_THEATER_DURATION = Duration.standardMinutes(60)
-  val DIFF_THEATER_DURATION = Duration.standardMinutes(75)
+  private val SAME_THEATER_DURATION = Duration.standardMinutes(60)
+  private val DIFF_THEATER_DURATION = Duration.standardMinutes(75)
+  val printFmt = DateTimeFormat.forStyle("SS")
 }

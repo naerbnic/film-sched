@@ -19,7 +19,7 @@ class ConstraintScheduler {
 	  for ((otherShowtime, otherVar) <- showtimeVars) {
 	    if (showtime conflicts otherShowtime) {
 	      val bothSeen = new BooleanVar(store)
-	      allVars += bothSeen
+	      // allVars += bothSeen
 	      store.impose(new AndBool(Array[IntVar](showtimeVar, otherVar), bothSeen))
 	      store.impose(new XeqC(bothSeen, 0));
 	    }
@@ -31,7 +31,7 @@ class ConstraintScheduler {
 	  val costVars = for {
 	    (showtime, seen) <- showtimeVars
 	  } yield {
-	    val showtimeCost = new IntVar(store, s"$showtime-cost", -10, 10)
+	    val showtimeCost = new IntVar(store, s"$showtime-cost", -100, 10)
 	    allVars += showtimeCost
 	    store.impose(new IfThenElse(
 	        new XeqC(seen, 1),

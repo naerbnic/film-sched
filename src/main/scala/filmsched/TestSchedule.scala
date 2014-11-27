@@ -3,30 +3,33 @@ package filmsched
 import java.nio.file.Files
 import java.nio.file.Path
 import java.nio.file.Paths
-import net.liftweb.json._
 import com.github.nscala_time.time.Imports._
 import org.joda.time.format.DateTimeFormatter
+import spray.json._
+import DefaultJsonProtocol._
 
 object TestSchedule {
-  implicit val Formats = DefaultFormats
   val fmt = DateTimeFormat.forPattern("YYYY-MM-DD HH:mm")
 	def main(args: Array[String]) {
 	   val contents = new String(Files.readAllBytes(Paths.get("src/main/resources/schedule.json")), "UTF-8")
-	   val json = parse(contents)
+     val JsArray(movies) = contents.parseJson
 	   
 	   val value = for {
-	     movie <- json.children
+	     movie <- contents.parseJson.convertTo[Seq[JsValue]]
 	   } yield {
-	     val title = (movie \ "title").extract[String]
-	     val length = Duration.standardMinutes((movie \ "length").extract[Int].toLong)
-	     val rating = (movie \ "rating").extract[Double]
+       val Seq(titleVal, lengthVal, ratingVal, showtimesVal) =
+         movie.asJsObject.getFields("title", "length", "rating", "showtimes")
+	     val title = titleVal.convertTo[String]
+	     val length = Duration.standardMinutes(lengthVal.convertTo[Long])
+	     val rating = ratingVal.convertTo[Double]
 	     val film = Film(title, length, rating)
 	     
 	     val showtimes = for {
-	       showtime <- (movie \ "showtimes").children
+	       showtime <- showtimesVal.convertTo[Seq[JsValue]]
 	     } yield {
-	       val startTime = fmt.parseDateTime((showtime \ "start-time").extract[String])
-	       val theater = Theater((showtime \ "theater").extract[String])
+         val Seq(showtimeVal, theaterVal) = showtime.asJsObject.getFields("start-time", "theater")
+	       val startTime = fmt.parseDateTime(showtimeVal.convertTo[String])
+	       val theater = Theater(theaterVal.convertTo[String])
 	       Showtime(film = film, startTime = startTime, theater = theater)
 	     }
 	     
