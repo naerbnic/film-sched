@@ -13,7 +13,7 @@ object ImdbRatings {
 	      "type" -> "json",
 	      "plot" -> "none")
 	  
-	  val ratings = Http(request OK as.String) map { jsonDoc =>
+	  val ratings = Http.configure(_ setFollowRedirects true)(request OK as.String) map { jsonDoc =>
 	    println(jsonDoc)
       val parsedJson = jsonDoc.parseJson
       val JsArray(objects) = parsedJson

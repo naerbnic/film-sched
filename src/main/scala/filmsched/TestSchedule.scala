@@ -11,7 +11,7 @@ import DefaultJsonProtocol._
 object TestSchedule {
   val fmt = DateTimeFormat.forPattern("YYYY-MM-DD HH:mm")
 	def main(args: Array[String]) {
-	   val contents = new String(Files.readAllBytes(Paths.get("src/main/resources/schedule.json")), "UTF-8")
+	   val contents = new String(Files.readAllBytes(Paths.get("src/main/resources/movies.json")), "UTF-8")
      val JsArray(movies) = contents.parseJson
 	   
 	   val value = for {
