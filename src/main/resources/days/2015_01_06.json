@@ -1,0 +1,420 @@
+[
+  {
+    "title": "Little England",
+    "length": 132,
+    "rating": 5.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 10:00",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "Corn Island",
+    "length": 100,
+    "rating": 5.6,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 13:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "Red Army",
+    "length": 76,
+    "rating": 5.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 16:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "Keep On Keepin’ On",
+    "length": 84,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 19:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+{
+    "title": "The Monk",
+    "length": 93,
+    "rating": 4.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 10:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Force Majeure",
+    "length": 118,
+    "rating": 5.7,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 11:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "The Grump",
+    "length": 104,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 13:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "In Order of Disappearance",
+    "length": 116,
+    "rating": 6.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 14:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Life in a fishbowl",
+    "length": 129,
+    "rating": 5.6,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 16:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "40-Love",
+    "length": 95,
+    "rating": 3.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 17:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Dukhtar",
+    "length": 93,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 19:30",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "SECRET SCREENING (2015)",
+    "length": 86,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 20:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Nabat",
+    "length": 105,
+    "rating": 5.7,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 10:30",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "Song from the Forest",
+    "length": 98,
+    "rating": 3.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 13:30",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "School of Babel",
+    "length": 89,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 16:30",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "Twenty-Five Palms",
+    "length": 116,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 19:30",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "Gemma Bovery",
+    "length": 99,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 16:00",
+        "theater": "Palm Springs High School"
+      }
+    ]
+  },
+{
+    "title": "Beatles",
+    "length": 110,
+    "rating": 4.3,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 19:00",
+        "theater": "Palm Springs High School"
+      }
+    ]
+  },
+  {
+    "title": "Natural Sciences",
+    "length": 71,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 09:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "A Girl At My Door",
+    "length": 119,
+    "rating": 4.7,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 09:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "The Perfect Dictatorship",
+    "length": 143,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 09:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Human Capital",
+    "length": 111,
+    "rating": 5.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 10:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Halla Halla",
+    "length": 97,
+    "rating": 3.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 11:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Three Windows and a Hanging",
+    "length": 93,
+    "rating": 3.4,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 12:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "How I Got Over",
+    "length": 87,
+    "rating": 3.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 12:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Love at First Fight",
+    "length": 98,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 13:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Today",
+    "length": 87,
+    "rating": 3.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 13:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Tangerines",
+    "length": 87,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 14:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Li’l Quinquin",
+    "length": 200,
+    "rating": 6.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 15:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Monsoon",
+    "length": 108,
+    "rating": 3.8,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 15:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "The Dark Horse",
+    "length": 124,
+    "rating": 5.8,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 16:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Behavior",
+    "length": 108,
+    "rating": 4.7,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 16:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "1001 Grams",
+    "length": 90,
+    "rating": 2.2,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 17:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Kurmanjan Datka",
+    "length": 131,
+    "rating": 6.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 18:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Mother of the Lamb",
+    "length": 79,
+    "rating": 3.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 18:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "’71",
+    "length": 100,
+    "rating": 4.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 19:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Xenia",
+    "length": 128,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 20:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Ghadi",
+    "length": 100,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-06 20:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  }
+]

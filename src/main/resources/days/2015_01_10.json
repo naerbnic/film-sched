@@ -1,0 +1,442 @@
+[
+  {
+    "title": "I Can Quit Whenever I Want",
+    "length": 100,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 10:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "The Nature of Modernism",
+    "length": 79,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 13:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "Lutah",
+    "length": 65,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 16:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "Who Am I",
+    "length": 105,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 19:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+  {
+    "title": "Hawaii",
+    "length": 102,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 10:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Li’l Quinquin",
+    "length": 200,
+    "rating": 6.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 11:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Walking Under Water",
+    "length": 77,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 13:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Spirit / Will / Loss",
+    "length": 74,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 13:30",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "The Tribe",
+    "length": 132,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 16:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Tales of the Grim Sleeper",
+    "length": 105,
+    "rating": 3.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 17:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "The Sound of Redemption",
+    "length": 83,
+    "rating": 2.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 19:30",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Wild Tales",
+    "length": 122,
+    "rating": 5.8,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 20:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "The Outrageous Sophie Tucker",
+    "length": 96,
+    "rating": 6.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 11:00",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+ {
+    "title": "Virtuosity",
+    "length": 87,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 14:00",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+ {
+    "title": "Villa Touma",
+    "length": 88,
+    "rating": 5.3,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 17:00",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+ {
+    "title": "An Honest Liar",
+    "length": 92,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 20:00",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+ {
+    "title": "Goodnight Mommy",
+    "length": 99,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 23:00",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "The Humbling",
+    "length": 112,
+    "rating": 1.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 12:00",
+        "theater": "Palm Springs High School"
+      }
+    ]
+  },
+ {
+    "title": "Lucky Stiff",
+    "length": 78,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 16:00",
+        "theater": "Palm Springs High School"
+      }
+    ]
+  },
+ {
+    "title": "Queen and Country",
+    "length": 115,
+    "rating": 3.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 19:00",
+        "theater": "Palm Springs High School"
+      }
+    ]
+  },
+{
+    "title": "One for the Road",
+    "length": 93,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 09:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Effie Gray",
+    "length": 108,
+    "rating": 1.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 10:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Theeb",
+    "length": 100,
+    "rating": 6.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 10:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Merchants of Doubt",
+    "length": 96,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 11:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Gett",
+    "length": 115,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 11:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Haider",
+    "length": 159,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 12:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Unlikely Heroes",
+    "length": 94,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 13:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Holbrook/Twain",
+    "length": 94,
+    "rating": 3.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 13:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Patrick's Day",
+    "length": 102,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 14:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "These Are the Rules",
+    "length": 78,
+    "rating": 3.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 14:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Décor",
+    "length": 116,
+    "rating": 3.9,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 15:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "The Treatment",
+    "length": 127,
+    "rating": 5.6,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 16:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Felix and Meira",
+    "length": 105,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 16:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Sunshine Superman",
+    "length": 96,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 17:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "La Tirisia",
+    "length": 110,
+    "rating": 5.4,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 17:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "The Perfect Dictatorship",
+    "length": 143,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 18:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "An Eye for Beauty",
+    "length": 102,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 19:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "A Girl At My Door",
+    "length": 119,
+    "rating": 4.7,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 19:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Margarita, with a Straw",
+    "length": 100,
+    "rating": 5.4,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 20:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "A Few Cubic Meters Of Love",
+    "length": 90,
+    "rating": 2.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-10 20:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  }
+]

@@ -7,7 +7,7 @@ object Scheduler {
     film.rating
   }
   
-  def findBestNext(showtimes: Seq[Showtime]): (Showtime, Seq[Showtime]) = {
+  def findBestNext(showtimes: Seq[ShowtimeInstance]): (ShowtimeInstance, Seq[ShowtimeInstance]) = {
     val first = showtimes.head
     val rest = showtimes.tail
     
@@ -25,7 +25,7 @@ object Scheduler {
     }
   }
   
-  def findBest(showtimes: Seq[Showtime]): Seq[Showtime] = {
+  def findBest(showtimes: Seq[ShowtimeInstance]): Seq[ShowtimeInstance] = {
     if (showtimes.isEmpty) {
       Seq()
     } else {
@@ -34,7 +34,7 @@ object Scheduler {
     }
   }
   
-  def findOverallBest(showtimes: Seq[Showtime]): Seq[Showtime] = {
+  def findOverallBest(showtimes: Seq[ShowtimeInstance]): Seq[ShowtimeInstance] = {
     val currBest = findBest(showtimes)
     
     require(currBest.nonEmpty)
@@ -48,8 +48,8 @@ object Scheduler {
     })
   }
   
-  def greedySchedule(showtimes: Set[Showtime]): Seq[Showtime] = {
-  	val orderedShowtimes = showtimes.toSeq.sortBy(_.startTime.getMillis())
+  def greedySchedule(showtimes: Set[ShowtimeInstance]): Seq[ShowtimeInstance] = {
+  	val orderedShowtimes = showtimes.toSeq.sortBy(_.showtime.startTime.getMillis())
   	
   	findOverallBest(orderedShowtimes).toSeq
   }

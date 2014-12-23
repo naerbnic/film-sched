@@ -1,0 +1,442 @@
+[
+  {
+    "title": "The Outrageous Sophie Tucker",
+    "length": 96,
+    "rating": 6.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 10:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "The Salt of the Earth",
+    "length": 100,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 13:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "Citizenfour",
+    "length": 114,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 16:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "Sold",
+    "length": 97,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 20:00",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "Sorrow and Joy",
+    "length": 107,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 10:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "She’s Funny That Way",
+    "length": 93,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 20:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "The Search",
+    "length": 149,
+    "rating": 2.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 11:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "What’s Between Us",
+    "length": 94,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 13:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Never Die Young",
+    "length": 70,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 13:30",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Helicopter Mom",
+    "length": 83,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 14:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Mateo",
+    "length": 86,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 16:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Gente de bien",
+    "length": 86,
+    "rating": 5.8,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 19:30",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Paper Planes",
+    "length": 96,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 17:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Not All Is Vigil",
+    "length": 98,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 19:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Above and Beyond",
+    "length": 87,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 11:00",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "Villa Touma",
+    "length": 88,
+    "rating": 5.3,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 14:00",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "Alleluia",
+    "length": 93,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 17:00",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "Song from the Forest",
+    "length": 98,
+    "rating": 3.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 20:00",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "It Follows",
+    "length": 100,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 23:00",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+ {
+    "title": "Ciudad Delirio",
+    "length": 100,
+    "rating": 4.4,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 16:00",
+        "theater": "Palm Springs High School"
+      }
+    ]
+  },
+{
+    "title": "The Humbling",
+    "length": 112,
+    "rating": 1.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 19:00",
+        "theater": "Palm Springs High School"
+      }
+    ]
+  },
+ {
+    "title": "The Reaper",
+    "length": 98,
+    "rating": 5.6,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 09:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "An Eye for Beauty",
+    "length": 102,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 10:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "The Treatment",
+    "length": 127,
+    "rating": 5.6,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 10:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Patrick's Day",
+    "length": 102,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 11:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Haider",
+    "length": 159,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 14:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Chagall - Malevich",
+    "length": 120,
+    "rating": 2.7,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 13:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Twenty-Five Palms",
+    "length": 116,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 14:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Felix and Meira",
+    "length": 105,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 13:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Mother of the Lamb",
+    "length": 79,
+    "rating": 3.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 14:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "X + Y",
+    "length": 111,
+    "rating": 5.7,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 15:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Clouds of Sils Maria",
+    "length": 124,
+    "rating": 6.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 16:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Red Amnesia",
+    "length": 115,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 16:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Xenia",
+    "length": 128,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 17:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Mirage",
+    "length": 90,
+    "rating": 4.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 17:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Red Rose",
+    "length": 87,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 18:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Unlikely Heroes",
+    "length": 94,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 19:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Beti and Amare",
+    "length": 94,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 19:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Theeb",
+    "length": 100,
+    "rating": 6.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 20:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "10,000 KM",
+    "length": 99,
+    "rating": 3.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-09 20:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  }
+]

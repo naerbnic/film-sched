@@ -1,0 +1,466 @@
+[
+  {
+    "title": "The Nightingale",
+    "length": 108,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 10:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "Little England",
+    "length": 132,
+    "rating": 5.5,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 13:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "The Search",
+    "length": 149,
+     "rating": 2.5,
+
+    "showtimes": [
+      {
+        "start-time": "2014-01-07 16:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "Ciudad Delirio",
+    "length": 100,
+    "rating": 4.4,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 20:00",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "The Dark Valley",
+    "length": 115,
+    "rating": 5.5,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 10:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Never Die Young",
+    "length": 70,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 10:30",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Futuro Beach",
+    "length": 106,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 11:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "The Hours With You",
+    "length": 92,
+    "rating": 3.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 13:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "August Winds",
+    "length": 77,
+    "rating": 2.5,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 13:30",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Gett",
+    "length": 115,
+   "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 14:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "What’s Between Us",
+    "length": 94,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 16:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Magical Girl",
+    "length": 127,
+    "rating": 5.5,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 16:30",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Limited Partnership",
+    "length": 74,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 17:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Flowers",
+    "length": 99,
+    "rating": 3.5,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 19:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Kebab & Horoscope",
+    "length": 72,
+    "rating": 5.2,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 19:30",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+{
+    "title": "Paper Planes",
+    "length": 96,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 20:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "The Breach",
+    "length": 85,
+   "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 10:30",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "Above and Beyond",
+    "length": 87,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 13:30",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "Inbetween Worlds",
+    "length": 102,
+    "rating": 3.9,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 16:30",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "Hope and Wire",
+    "length": 96,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 19:30",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+ {
+    "title": "Marie’s Story",
+    "length": 95,
+    "rating": 4.8,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 16:00",
+        "theater": "Palm Springs High School"
+      }
+    ]
+  },
+{
+    "title": "Don Quixote",
+    "length": 83,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 19:00",
+        "theater": "Palm Springs High School"
+      }
+    ]
+  },
+ {
+    "title": "Beloved Sisters",
+    "length": 170,
+    "rating": 4.4,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 09:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "The Farewell Party",
+    "length": 93,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 09:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Manpower",
+    "length": 88,
+    "rating": 3.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 10:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Rocks in My Pockets",
+    "length": 89,
+    "rating": 5.5,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 11:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Sand Dollars",
+    "length": 85,
+     "rating": 4.0,
+
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 11:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "The Reaper",
+    "length": 98,
+    "rating": 5.6,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 12:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "In Order of Disappearance",
+    "length": 116,
+    "rating": 6.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 13:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Come to My Voice",
+    "length": 101,
+    "rating": 5.5,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 13:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Beatles",
+    "length": 110,
+   "rating": 4.3,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 14:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Mirage",
+    "length": 90,
+    "rating": 4.5,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 14:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Eyes of a Thief",
+    "length": 98,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 15:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Still Alice",
+    "length": 101,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 16:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "10,000 KM",
+    "length": 99,
+    "rating": 3.5,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 16:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Ida",
+    "length": 80,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 17:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "The Lesson",
+    "length": 107,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 17:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "X + Y",
+    "length": 111,
+    "rating": 5.7,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 18:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Love at First Fight",
+    "length": 98,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 19:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Afterlife",
+    "length": 90,
+    "rating": 5.4,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 19:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "No One’s Child",
+    "length": 97,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 20:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Lake Los Angeles",
+    "length": 85,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2015-01-07 20:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  }
+]

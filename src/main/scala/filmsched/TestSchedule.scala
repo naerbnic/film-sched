@@ -11,7 +11,7 @@ import DefaultJsonProtocol._
 object TestSchedule {
   val fmt = DateTimeFormat.forPattern("YYYY-MM-DD HH:mm")
 	def main(args: Array[String]) {
-	   val contents = new String(Files.readAllBytes(Paths.get("src/main/resources/movies.json")), "UTF-8")
+	   val contents = new String(Files.readAllBytes(Paths.get("src/main/resources/movies2.json")), "UTF-8")
      val JsArray(movies) = contents.parseJson
 	   
 	   val value = for {
@@ -30,7 +30,7 @@ object TestSchedule {
          val Seq(showtimeVal, theaterVal) = showtime.asJsObject.getFields("start-time", "theater")
 	       val startTime = fmt.parseDateTime(showtimeVal.convertTo[String])
 	       val theater = Theater(theaterVal.convertTo[String])
-	       Showtime(film = film, startTime = startTime, theater = theater)
+	       ShowtimeInstance(film = film, showtime = Showtime(startTime = startTime, theater = theater))
 	     }
 	     
 	     showtimes

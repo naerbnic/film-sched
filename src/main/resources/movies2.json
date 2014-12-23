@@ -1,0 +1,1722 @@
+[{
+  "title": "10,000 KM",
+  "length": 99,
+  "rating": 3.5,
+  "showtimes": [{
+    "start-time": "2015-01-07 16:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-09 20:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "1001 Grams",
+  "length": 90,
+  "rating": 2.2,
+  "showtimes": [{
+    "start-time": "2015-01-06 17:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "1971",
+  "length": 80,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-08 16:30",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "24 Days",
+  "length": 110,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-08 11:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-05 19:00",
+    "theater": "Palm Springs High School"
+  }]
+}, {
+  "title": "40-Love",
+  "length": 95,
+  "rating": 3.0,
+  "showtimes": [{
+    "start-time": "2015-01-08 13:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-06 17:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "5 To 7",
+  "length": 98,
+  "rating": 5.5,
+  "showtimes": [{
+    "start-time": "2015-01-04 13:00",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "A Few Cubic Meters Of Love",
+  "length": 90,
+  "rating": 2.5,
+  "showtimes": [{
+    "start-time": "2015-01-10 20:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "A Girl At My Door",
+  "length": 119,
+  "rating": 4.7,
+  "showtimes": [{
+    "start-time": "2015-01-10 19:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-06 09:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "A Moonless Night",
+  "length": 80,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-04 10:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Above and Beyond",
+  "length": 87,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 13:30",
+    "theater": "Palm Canyon Theatre"
+  }, {
+    "start-time": "2015-01-09 11:00",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "Accused",
+  "length": 97,
+  "rating": 5.5,
+  "showtimes": [{
+    "start-time": "2015-01-05 10:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-04 16:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Afterlife",
+  "length": 90,
+  "rating": 5.4,
+  "showtimes": [{
+    "start-time": "2015-01-07 19:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-08 20:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Alleluia",
+  "length": 93,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 17:00",
+    "theater": "Palm Canyon Theatre"
+  }, {
+    "start-time": "2015-01-05 14:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "An Eye for Beauty",
+  "length": 102,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 19:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-09 10:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "An Honest Liar",
+  "length": 92,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 20:00",
+    "theater": "Palm Canyon Theatre"
+  }, {
+    "start-time": "2015-01-08 19:30",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "August Winds",
+  "length": 77,
+  "rating": 2.5,
+  "showtimes": [{
+    "start-time": "2015-01-07 13:30",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-08 19:30",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Back on Board: Greg Louganis",
+  "length": 88,
+  "rating": 2.5,
+  "showtimes": [{
+    "start-time": "2015-01-05 20:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Backcountry",
+  "length": 92,
+  "rating": 3.9,
+  "showtimes": [{
+    "start-time": "2015-01-05 20:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Beatles",
+  "length": 110,
+  "rating": 4.3,
+  "showtimes": [{
+    "start-time": "2015-01-07 14:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-06 19:00",
+    "theater": "Palm Springs High School"
+  }]
+}, {
+  "title": "Behavior",
+  "length": 108,
+  "rating": 4.7,
+  "showtimes": [{
+    "start-time": "2015-01-06 16:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Beloved Sisters",
+  "length": 170,
+  "rating": 4.4,
+  "showtimes": [{
+    "start-time": "2015-01-07 09:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-05 19:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Beti and Amare",
+  "length": 94,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 19:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Chagall - Malevich",
+  "length": 120,
+  "rating": 2.7,
+  "showtimes": [{
+    "start-time": "2015-01-09 13:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Charlie’s Country",
+  "length": 108,
+  "rating": 5.8,
+  "showtimes": [{
+    "start-time": "2015-01-04 16:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Citizenfour",
+  "length": 114,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 16:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "Ciudad Delirio",
+  "length": 100,
+  "rating": 4.4,
+  "showtimes": [{
+    "start-time": "2015-01-07 20:00",
+    "theater": "Annenberg Auditorium"
+  }, {
+    "start-time": "2015-01-09 16:00",
+    "theater": "Palm Springs High School"
+  }]
+}, {
+  "title": "Clouds of Sils Maria",
+  "length": 124,
+  "rating": 6.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 16:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Come to My Voice",
+  "length": 101,
+  "rating": 5.5,
+  "showtimes": [{
+    "start-time": "2015-01-07 13:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Concrete Night",
+  "length": 96,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-05 13:30",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Corn Island",
+  "length": 100,
+  "rating": 5.6,
+  "showtimes": [{
+    "start-time": "2015-01-06 13:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "Cowboys",
+  "length": 107,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-04 17:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Cut Snake",
+  "length": 94,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-08 10:30",
+    "theater": "Palm Canyon Theatre"
+  }, {
+    "start-time": "2015-01-05 19:30",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "Don Quixote",
+  "length": 83,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 19:00",
+    "theater": "Palm Springs High School"
+  }]
+}, {
+  "title": "Dukhtar",
+  "length": 93,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-06 19:30",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-05 16:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Décor",
+  "length": 116,
+  "rating": 3.9,
+  "showtimes": [{
+    "start-time": "2015-01-10 15:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-08 09:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Effie Gray",
+  "length": 108,
+  "rating": 1.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 10:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-08 19:00",
+    "theater": "Palm Springs High School"
+  }]
+}, {
+  "title": "Eyes of a Thief",
+  "length": 98,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 15:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-04 11:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Fair Play",
+  "length": 100,
+  "rating": 4.1,
+  "showtimes": [{
+    "start-time": "2015-01-05 13:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Felix and Meira",
+  "length": 105,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 16:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-09 13:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Fidelio, Alice’s Journey",
+  "length": 97,
+  "rating": 3.0,
+  "showtimes": [{
+    "start-time": "2015-01-05 10:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Flowers",
+  "length": 99,
+  "rating": 3.5,
+  "showtimes": [{
+    "start-time": "2015-01-07 19:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-08 10:30",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Force Majeure",
+  "length": 118,
+  "rating": 5.7,
+  "showtimes": [{
+    "start-time": "2015-01-06 11:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Futuro Beach",
+  "length": 106,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 11:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-04 17:30",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Gemma Bovery",
+  "length": 99,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-06 16:00",
+    "theater": "Palm Springs High School"
+  }, {
+    "start-time": "2015-01-04 19:00",
+    "theater": "Palm Springs High School"
+  }]
+}, {
+  "title": "Gente de bien",
+  "length": 86,
+  "rating": 5.8,
+  "showtimes": [{
+    "start-time": "2015-01-09 19:30",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-08 13:30",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Gett",
+  "length": 115,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 14:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-10 11:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-04 14:30",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Ghadi",
+  "length": 100,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-08 11:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-06 20:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Goodnight Mommy",
+  "length": 99,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 23:00",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "Grand Street",
+  "length": 81,
+  "rating": 3.5,
+  "showtimes": [{
+    "start-time": "2015-01-08 19:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Güeros",
+  "length": 106,
+  "rating": 4.2,
+  "showtimes": [{
+    "start-time": "2015-01-08 14:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-04 19:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Haemoo",
+  "length": 111,
+  "rating": 4.5,
+  "showtimes": [{
+    "start-time": "2015-01-05 16:30",
+    "theater": "Palm Canyon Theatre"
+  }, {
+    "start-time": "2015-01-04 17:00",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "Haider",
+  "length": 159,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 12:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-09 14:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Halla Halla",
+  "length": 97,
+  "rating": 3.5,
+  "showtimes": [{
+    "start-time": "2015-01-06 11:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Hawaii",
+  "length": 102,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 10:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Helicopter Mom",
+  "length": 83,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 14:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Henri Henri",
+  "length": 100,
+  "rating": 3.6,
+  "showtimes": [{
+    "start-time": "2015-01-08 10:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-05 17:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Holbrook/Twain",
+  "length": 94,
+  "rating": 3.5,
+  "showtimes": [{
+    "start-time": "2015-01-10 13:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Hope and Wire",
+  "length": 96,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 19:30",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "How I Got Over",
+  "length": 87,
+  "rating": 3.5,
+  "showtimes": [{
+    "start-time": "2015-01-06 12:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-05 18:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Human Capital",
+  "length": 111,
+  "rating": 5.5,
+  "showtimes": [{
+    "start-time": "2015-01-06 10:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-05 17:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "I Can Quit Whenever I Want",
+  "length": 100,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 10:30",
+    "theater": "Annenberg Auditorium"
+  }, {
+    "start-time": "2015-01-08 16:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "Ida",
+  "length": 80,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 17:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "In Her Place",
+  "length": 115,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-05 11:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-04 20:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "In Order of Disappearance",
+  "length": 116,
+  "rating": 6.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 13:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-06 14:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Inbetween Worlds",
+  "length": 102,
+  "rating": 3.9,
+  "showtimes": [{
+    "start-time": "2015-01-07 16:30",
+    "theater": "Palm Canyon Theatre"
+  }, {
+    "start-time": "2015-01-04 20:00",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "Iris",
+  "length": 74,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-04 16:00",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "It Follows",
+  "length": 100,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 23:00",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "Kebab & Horoscope",
+  "length": 72,
+  "rating": 5.2,
+  "showtimes": [{
+    "start-time": "2015-01-07 19:30",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-08 17:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Keep On Keepin’ On",
+  "length": 84,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-06 19:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "Kurmanjan Datka",
+  "length": 131,
+  "rating": 6.0,
+  "showtimes": [{
+    "start-time": "2015-01-08 16:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-06 18:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "La Tirisia",
+  "length": 110,
+  "rating": 5.4,
+  "showtimes": [{
+    "start-time": "2015-01-10 17:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Lake Los Angeles",
+  "length": 85,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 20:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-08 17:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Learning to Drive",
+  "length": 105,
+  "rating": 6.0,
+  "showtimes": [{
+    "start-time": "2015-01-08 13:30",
+    "theater": "Annenberg Auditorium"
+  }, {
+    "start-time": "2015-01-05 19:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "Liar’s Dice",
+  "length": 104,
+  "rating": 3.5,
+  "showtimes": [{
+    "start-time": "2015-01-05 15:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Life in a fishbowl",
+  "length": 129,
+  "rating": 5.6,
+  "showtimes": [{
+    "start-time": "2015-01-06 16:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-04 19:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Limited Partnership",
+  "length": 74,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 17:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-08 14:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Little England",
+  "length": 132,
+  "rating": 5.5,
+  "showtimes": [{
+    "start-time": "2015-01-07 13:30",
+    "theater": "Annenberg Auditorium"
+  }, {
+    "start-time": "2015-01-06 10:00",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "Living is Easy with eyes closed",
+  "length": 108,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-08 19:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "Li’l Quinquin",
+  "length": 200,
+  "rating": 6.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 11:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-06 15:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Love at First Fight",
+  "length": 98,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 19:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-06 13:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Lucky Stiff",
+  "length": 78,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 16:00",
+    "theater": "Palm Springs High School"
+  }, {
+    "start-time": "2015-01-08 19:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Lutah",
+  "length": 65,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 16:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "Magical Girl",
+  "length": 127,
+  "rating": 5.5,
+  "showtimes": [{
+    "start-time": "2015-01-07 16:30",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-08 13:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Manpower",
+  "length": 88,
+  "rating": 3.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 10:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-08 15:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Margarita, with a Straw",
+  "length": 100,
+  "rating": 5.4,
+  "showtimes": [{
+    "start-time": "2015-01-10 20:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Marie’s Story",
+  "length": 95,
+  "rating": 4.8,
+  "showtimes": [{
+    "start-time": "2015-01-07 16:00",
+    "theater": "Palm Springs High School"
+  }]
+}, {
+  "title": "Mateo",
+  "length": 86,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 16:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Merchants of Doubt",
+  "length": 96,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 11:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-08 13:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Mirage",
+  "length": 90,
+  "rating": 4.5,
+  "showtimes": [{
+    "start-time": "2015-01-07 14:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-09 17:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Mommy",
+  "length": 134,
+  "rating": 5.5,
+  "showtimes": [{
+    "start-time": "2015-01-04 19:00",
+    "theater": "Annenberg Auditorium"
+  }, {
+    "start-time": "2015-01-05 16:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Monsoon",
+  "length": 108,
+  "rating": 3.8,
+  "showtimes": [{
+    "start-time": "2015-01-06 15:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-05 20:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Mother of the Lamb",
+  "length": 79,
+  "rating": 3.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 14:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-06 18:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Mr. Kaplan",
+  "length": 98,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-04 10:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "NN",
+  "length": 94,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-05 19:30",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Nabat",
+  "length": 105,
+  "rating": 5.7,
+  "showtimes": [{
+    "start-time": "2015-01-06 10:30",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "Natural Sciences",
+  "length": 71,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-08 19:30",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-06 09:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Never Die Young",
+  "length": 70,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 10:30",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-09 13:30",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "No One’s Child",
+  "length": 97,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 20:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-08 12:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Not All Is Vigil",
+  "length": 98,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 19:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "One for the Road",
+  "length": 93,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 09:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Packed In A Trunk",
+  "length": 78,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-05 10:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "Paper Planes",
+  "length": 96,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 20:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-09 17:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Patrick's Day",
+  "length": 102,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 14:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-09 11:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Queen and Country",
+  "length": 115,
+  "rating": 3.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 19:00",
+    "theater": "Palm Springs High School"
+  }]
+}, {
+  "title": "Red Amnesia",
+  "length": 115,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 16:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-08 16:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Red Army",
+  "length": 76,
+  "rating": 5.5,
+  "showtimes": [{
+    "start-time": "2015-01-08 10:30",
+    "theater": "Annenberg Auditorium"
+  }, {
+    "start-time": "2015-01-06 16:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "Red Rose",
+  "length": 87,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 18:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Rocks in My Pockets",
+  "length": 89,
+  "rating": 5.5,
+  "showtimes": [{
+    "start-time": "2015-01-07 11:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-05 16:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "SECRET SCREENING (2015)",
+  "length": 86,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-06 20:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Saint Laurent",
+  "length": 150,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-04 12:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Sand Dollars",
+  "length": 85,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 11:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-05 19:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "School of Babel",
+  "length": 89,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-06 16:30",
+    "theater": "Palm Canyon Theatre"
+  }, {
+    "start-time": "2015-01-04 14:00",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "See you in Montevideo",
+  "length": 146,
+  "rating": 2.9,
+  "showtimes": [{
+    "start-time": "2015-01-04 18:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Selma",
+  "length": 122,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-04 11:30",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "She’s Funny That Way",
+  "length": 93,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 20:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Sold",
+  "length": 97,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 20:00",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "Some Kind of Love",
+  "length": 87,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-05 12:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-04 20:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Song One",
+  "length": 88,
+  "rating": 3.5,
+  "showtimes": [{
+    "start-time": "2015-01-05 13:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-04 20:30",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Song from the Forest",
+  "length": 98,
+  "rating": 3.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 20:00",
+    "theater": "Palm Canyon Theatre"
+  }, {
+    "start-time": "2015-01-06 13:30",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "Song of the Sea",
+  "length": 94,
+  "rating": 4.6,
+  "showtimes": [{
+    "start-time": "2015-01-05 16:00",
+    "theater": "Palm Springs High School"
+  }]
+}, {
+  "title": "Sorrow and Joy",
+  "length": 107,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 10:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-05 09:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Speed Walking",
+  "length": 108,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-04 11:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Spirit / Will / Loss",
+  "length": 74,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 13:30",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Spring",
+  "length": 109,
+  "rating": 3.9,
+  "showtimes": [{
+    "start-time": "2015-01-04 13:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Still Alice",
+  "length": 101,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 16:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-05 11:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Sunshine Superman",
+  "length": 96,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 17:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-08 14:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "TALKING PICTURES - AWARDS BUZZ AT FULL GALLOP, MODERATED BY THE HOLLYWOOD REPORTER’S SCOTT FEINBERG",
+  "length": 90,
+  "rating": 6.0,
+  "showtimes": [{
+    "start-time": "2015-01-04 09:30",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "Tales of the Grim Sleeper",
+  "length": 105,
+  "rating": 3.5,
+  "showtimes": [{
+    "start-time": "2015-01-10 17:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Tangerines",
+  "length": 87,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-06 14:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "The 100-Year-Old Man",
+  "length": 114,
+  "rating": 6.0,
+  "showtimes": [{
+    "start-time": "2015-01-08 16:00",
+    "theater": "Palm Springs High School"
+  }, {
+    "start-time": "2015-01-04 16:00",
+    "theater": "Palm Springs High School"
+  }]
+}, {
+  "title": "The Breach",
+  "length": 85,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 10:30",
+    "theater": "Palm Canyon Theatre"
+  }, {
+    "start-time": "2015-01-08 13:30",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "The Dark Horse",
+  "length": 124,
+  "rating": 5.8,
+  "showtimes": [{
+    "start-time": "2015-01-06 16:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-04 19:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "The Dark Valley",
+  "length": 115,
+  "rating": 5.5,
+  "showtimes": [{
+    "start-time": "2015-01-07 10:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-05 19:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "The Duke of Burgundy",
+  "length": 101,
+  "rating": 3.0,
+  "showtimes": [{
+    "start-time": "2015-01-08 20:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-04 13:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "The Farewell Party",
+  "length": 93,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 09:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-04 15:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "The Golden Era",
+  "length": 178,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-04 09:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "The Grandad",
+  "length": 90,
+  "rating": 5.7,
+  "showtimes": [{
+    "start-time": "2015-01-05 17:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-04 14:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "The Grump",
+  "length": 104,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-08 11:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-06 13:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "The Guide",
+  "length": 120,
+  "rating": 6.0,
+  "showtimes": [{
+    "start-time": "2015-01-05 10:30",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "The Hours With You",
+  "length": 92,
+  "rating": 3.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 13:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-04 16:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "The Humbling",
+  "length": 112,
+  "rating": 1.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 12:00",
+    "theater": "Palm Springs High School"
+  }, {
+    "start-time": "2015-01-09 19:00",
+    "theater": "Palm Springs High School"
+  }]
+}, {
+  "title": "The Japanese Dog",
+  "length": 85,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-05 14:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "The Lesson",
+  "length": 107,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 17:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-05 10:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "The Monk",
+  "length": 93,
+  "rating": 4.5,
+  "showtimes": [{
+    "start-time": "2015-01-08 10:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-06 10:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "The Nature of Modernism",
+  "length": 79,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 13:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "The Nightingale",
+  "length": 108,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 10:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "The Outrageous Sophie Tucker",
+  "length": 96,
+  "rating": 6.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 11:00",
+    "theater": "Palm Canyon Theatre"
+  }, {
+    "start-time": "2015-01-09 10:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "The Perfect Dictatorship",
+  "length": 143,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 18:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-06 09:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "The Reaper",
+  "length": 98,
+  "rating": 5.6,
+  "showtimes": [{
+    "start-time": "2015-01-07 12:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-09 09:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "The Salt of the Earth",
+  "length": 100,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 13:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "The Search",
+  "length": 149,
+  "rating": 2.5,
+  "showtimes": [{
+    "start-time": "2015-01-09 11:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-07 16:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "The Sound of Redemption",
+  "length": 83,
+  "rating": 2.5,
+  "showtimes": [{
+    "start-time": "2015-01-10 19:30",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-08 20:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "The Treatment",
+  "length": 127,
+  "rating": 5.6,
+  "showtimes": [{
+    "start-time": "2015-01-10 16:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-09 10:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "The Tribe",
+  "length": 132,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 16:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Theeb",
+  "length": 100,
+  "rating": 6.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 10:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-09 20:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "These Are the Rules",
+  "length": 78,
+  "rating": 3.5,
+  "showtimes": [{
+    "start-time": "2015-01-10 14:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-08 18:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-05 11:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Three Windows and a Hanging",
+  "length": 93,
+  "rating": 3.4,
+  "showtimes": [{
+    "start-time": "2015-01-06 12:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-04 17:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Tigers",
+  "length": 90,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-08 16:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Timbuktu",
+  "length": 97,
+  "rating": 5.0,
+  "showtimes": [{
+    "start-time": "2015-01-05 14:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "To Kill a Man",
+  "length": 82,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-04 13:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Today",
+  "length": 87,
+  "rating": 3.0,
+  "showtimes": [{
+    "start-time": "2015-01-06 13:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Tokyo Fiancée",
+  "length": 100,
+  "rating": 4.5,
+  "showtimes": [{
+    "start-time": "2015-01-04 10:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Trespassing Bergman",
+  "length": 107,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-05 13:30",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "Tu dors Nicole",
+  "length": 93,
+  "rating": 5.3,
+  "showtimes": [{
+    "start-time": "2015-01-08 17:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Twenty-Five Palms",
+  "length": 116,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 14:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-06 19:30",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "Two Days, One Night",
+  "length": 95,
+  "rating": 5.7,
+  "showtimes": [{
+    "start-time": "2015-01-05 10:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Unlikely Heroes",
+  "length": 94,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 13:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-09 19:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Villa Touma",
+  "length": 88,
+  "rating": 5.3,
+  "showtimes": [{
+    "start-time": "2015-01-10 17:00",
+    "theater": "Palm Canyon Theatre"
+  }, {
+    "start-time": "2015-01-09 14:00",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "Virtuosity",
+  "length": 87,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 14:00",
+    "theater": "Palm Canyon Theatre"
+  }]
+}, {
+  "title": "Walking Under Water",
+  "length": 77,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 13:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Walter",
+  "length": 94,
+  "rating": 4.2,
+  "showtimes": [{
+    "start-time": "2015-01-04 14:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "What’s Between Us",
+  "length": 94,
+  "rating": 0.0,
+  "showtimes": [{
+    "start-time": "2015-01-07 16:00",
+    "theater": "Camelot Theatres"
+  }, {
+    "start-time": "2015-01-09 13:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Who Am I",
+  "length": 105,
+  "rating": 2.0,
+  "showtimes": [{
+    "start-time": "2015-01-10 19:30",
+    "theater": "Annenberg Auditorium"
+  }, {
+    "start-time": "2015-01-08 10:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Wild Tales",
+  "length": 122,
+  "rating": 5.8,
+  "showtimes": [{
+    "start-time": "2015-01-10 20:00",
+    "theater": "Camelot Theatres"
+  }]
+}, {
+  "title": "Winter Sleep",
+  "length": 196,
+  "rating": 5.8,
+  "showtimes": [{
+    "start-time": "2015-01-05 13:30",
+    "theater": "Annenberg Auditorium"
+  }]
+}, {
+  "title": "X + Y",
+  "length": 111,
+  "rating": 5.7,
+  "showtimes": [{
+    "start-time": "2015-01-07 18:30",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-09 15:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "Xenia",
+  "length": 128,
+  "rating": 4.0,
+  "showtimes": [{
+    "start-time": "2015-01-09 17:00",
+    "theater": "Palm Springs Regal 9"
+  }, {
+    "start-time": "2015-01-06 20:00",
+    "theater": "Palm Springs Regal 9"
+  }]
+}, {
+  "title": "’71",
+  "length": 100,
+  "rating": 4.5,
+  "showtimes": [{
+    "start-time": "2015-01-06 19:30",
+    "theater": "Palm Springs Regal 9"
+  }]
+}]

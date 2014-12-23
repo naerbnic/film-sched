@@ -1,0 +1,453 @@
+[
+  {
+    "title": "Red Army",
+    "length": 76,
+    "rating": 5.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 10:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "Learning to Drive",
+    "length": 105,
+    "rating": 6.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 13:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "I Can Quit Whenever I Want",
+    "length": 100,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 16:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "Living is Easy with eyes closed",
+    "length": 108,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 19:30",
+        "theater": "Annenberg Auditorium"
+      }
+    ]
+  },
+ {
+    "title": "The Monk",
+    "length": 93,
+    "rating": 4.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 10:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Flowers",
+    "length": 99,
+    "rating": 3.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 10:30",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "24 Days",
+    "length": 110,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 11:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Magical Girl",
+    "length": 127,
+    "rating": 5.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 13:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Gente de bien",
+    "length": 86,
+    "rating": 5.8,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 13:30",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Güeros",
+    "length": 106,
+    "rating": 4.2,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 14:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Kurmanjan Datka",
+    "length": 131,
+    "rating": 6.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 16:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Tu dors Nicole",
+    "length": 93,
+    "rating": 5.3,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 17:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "August Winds",
+    "length": 77,
+    "rating": 2.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 19:30",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Natural Sciences",
+    "length": 71,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 19:30",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "The Sound of Redemption",
+    "length": 83,
+    "rating": 2.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 20:00",
+        "theater": "Camelot Theatres"
+      }
+    ]
+  },
+ {
+    "title": "Cut Snake",
+    "length": 94,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 10:30",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "The Breach",
+    "length": 85,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 13:30",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "1971",
+    "length": 80,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 16:30",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+{
+    "title": "An Honest Liar",
+    "length": 92,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 19:30",
+        "theater": "Palm Canyon Theatre"
+      }
+    ]
+  },
+ {
+    "title": "The 100-Year-Old Man",
+    "length": 114,
+    "rating": 6.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 16:00",
+        "theater": "Palm Springs High School"
+      }
+    ]
+  },
+{
+    "title": "Effie Gray",
+    "length": 108,
+    "rating": 1.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 19:00",
+        "theater": "Palm Springs High School"
+      }
+    ]
+  },
+ {
+    "title": "Décor",
+    "length": 116,
+    "rating": 3.9,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 09:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Who Am I",
+    "length": 105,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 10:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Henri Henri",
+    "length": 100,
+    "rating": 3.6,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 10:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "The Grump",
+    "length": 104,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 11:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Ghadi",
+    "length": 100,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 11:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "No One’s Child",
+    "length": 97,
+    "rating": 4.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 12:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "40-Love",
+    "length": 95,
+    "rating": 3.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 13:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Merchants of Doubt",
+    "length": 96,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 13:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Sunshine Superman",
+    "length": 96,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 14:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Limited Partnership",
+    "length": 74,
+    "rating": 2.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 14:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Manpower",
+    "length": 88,
+    "rating": 3.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 15:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Red Amnesia",
+    "length": 115,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 16:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Afterlife",
+    "length": 90,
+    "rating": 5.4,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 20:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Tigers",
+    "length": 90,
+    "rating": 0.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 16:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Lake Los Angeles",
+    "length": 85,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 17:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Kebab & Horoscope",
+    "length": 72,
+    "rating": 5.2,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 17:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "These Are the Rules",
+    "length": 78,
+    "rating": 3.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 18:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "The Duke of Burgundy",
+    "length": 101,
+    "rating": 3.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 20:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Lucky Stiff",
+    "length": 78,
+    "rating": 5.0,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 19:00",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  },
+{
+    "title": "Grand Street",
+    "length": 81,
+    "rating": 3.5,
+    "showtimes": [
+      {
+        "start-time": "2014-01-08 19:30",
+        "theater": "Palm Springs Regal 9"
+      }
+    ]
+  }
+]

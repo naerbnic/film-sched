@@ -2,142 +2,131 @@
 {
     "title": "5 To 7",
     "length": 98,
-    "rating":0,
+    "rating": 5.5,
     "showtimes": [
       {
-        "start-time": "2015-04-01 13:00",
-        "theater": "Annberg"
-      }
+        "start-time": "2015-01-04 13:00",
+        "theater": "Annenberg Auditorium"
+     }
     ]
   },
 {
     "title": "Iris",
     "length": 74,
-    "rating": 0,
+    "rating": 2.0,
     "showtimes": [
       {
-        "start-time": "2015-04-01 16:00",
-        "theater": "Annberg"
+        "start-time": "2015-01-04 16:00",
+        "theater": "Annenberg Auditorium"
       }
     ]
   },
 {
     "title": "Mommy",
     "length": 134,
-    "rating": 0,
+    "rating": 5.5,
     "showtimes": [
       {
-        "start-time": "2015-04-01 19:00",
-        "theater": "Annberg"
+        "start-time": "2015-01-04 19:00",
+        "theater": "Annenberg Auditorium"
       }
     ]
-  },
+   },
   {
     "title": "A Moonless Night",
     "length": 80,
-    "rating": 0,
+    "rating": 4.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 10:00",
-        "theater": "Camelot"
+        "start-time": "2014-01-04 10:00",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "Selma",
     "length": 122,
-    "rating": 0,
+    "rating": 2.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 11:30",
-        "theater": "Camelot"
+        "start-time": "2014-01-04 11:30",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "The Duke of Burgundy",
     "length": 101,
-    "rating": 0,
+    "rating": 3.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 13:00",
-        "theater": "Camelot"
+        "start-time": "2014-01-04 13:00",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "Gett",
     "length": 115,
-    "rating": 0,
+    "rating": 0.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 14:30",
-        "theater": "Camelot"
+        "start-time": "2014-01-04 14:30",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "The Hours With You",
     "length": 92,
-    "rating": 0,
+    "rating": 3.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 16:00",
-        "theater": "Camelot"
+        "start-time": "2014-01-04 16:00",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "Futuro Beach",
     "length": 106,
-    "rating": 0,
+    "rating": 0.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 17:30",
-        "theater": "Camelot"
+        "start-time": "2014-01-04 17:30",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "Life in a fishbowl",
     "length": 129,
-    "rating": 0,
+    "rating": 5.6,
     "showtimes": [
       {
-        "start-time": "2014-04-01 19:00",
-        "theater": "Camelot"
+        "start-time": "2014-01-04 19:00",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "Song One",
     "length": 88,
-    "rating": 0,
+    "rating": 3.5,
     "showtimes": [
       {
-        "start-time": "2014-04-01 20:30",
-        "theater": "Camelot"
+        "start-time": "2014-01-04 20:30",
+        "theater": "Camelot Theatres"
       }
     ]
   },
   {
-    "title": "Canada Party",
-    "length": 90,
-    "rating": 0,
-    "showtimes": [
-      {
-        "start-time": "2014-04-01 21:30",
-        "theater": "Lulu"
-      }
-    ]
-  },
- {
     "title": "TALKING PICTURES - AWARDS BUZZ AT FULL GALLOP, MODERATED BY THE HOLLYWOOD REPORTER’S SCOTT FEINBERG",
     "length": 90,
-    "rating": 0,
+    "rating": 6.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 09:30",
+        "start-time": "2014-01-04 09:30",
         "theater": "Palm Canyon Theatre"
       }
     ]
@@ -145,10 +134,10 @@
  {
     "title": "School of Babel",
     "length": 89,
-    "rating": 0,
+    "rating": 4.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 14:00",
+        "start-time": "2014-01-04 14:00",
         "theater": "Palm Canyon Theatre"
       }
     ]
@@ -156,10 +145,10 @@
  {
     "title": "Haemoo",
     "length": 111,
-    "rating": 0,
+    "rating": 4.5,
     "showtimes": [
       {
-        "start-time": "2014-04-01 17:00",
+        "start-time": "2014-01-04 17:00",
         "theater": "Palm Canyon Theatre"
       }
     ]
@@ -167,10 +156,10 @@
  {
     "title": "Inbetween Worlds",
     "length": 102,
-    "rating": 0,
+    "rating": 3.9,
     "showtimes": [
       {
-        "start-time": "2014-04-01 20:00",
+        "start-time": "2014-01-04 20:00",
         "theater": "Palm Canyon Theatre"
       }
     ]
@@ -178,10 +167,10 @@
   {
     "title": "The 100-Year-Old Man",
     "length": 114,
-    "rating": 0,
+    "rating": 6.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 16:00",
+        "start-time": "2014-01-04 16:00",
         "theater": "Palm Springs High School"
       }
     ]
@@ -189,10 +178,10 @@
   {
     "title": "Gemma Bovery",
     "length": 99,
-    "rating": 0,
+    "rating": 5.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 19:00",
+        "start-time": "2014-01-04 19:00",
         "theater": "Palm Springs High School"
       }
     ]
@@ -200,10 +189,10 @@
   {
     "title": "Mr. Kaplan",
     "length": 98,
-    "rating": 0,
+    "rating": 5.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 10:00",
+        "start-time": "2014-01-04 10:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -211,10 +200,10 @@
  {
     "title": "Tokyo Fiancée",
     "length": 100,
-    "rating": 0,
+    "rating": 4.5,
     "showtimes": [
       {
-        "start-time": "2014-04-01 10:30",
+        "start-time": "2014-01-04 10:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -222,10 +211,10 @@
 {
     "title": "Speed Walking",
     "length": 108,
-    "rating": 0,
+    "rating": 5.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 11:00",
+        "start-time": "2014-01-04 11:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -233,10 +222,10 @@
 {
     "title": "Eyes of a Thief",
     "length": 98,
-    "rating": 0,
+    "rating": 2.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 11:30",
+        "start-time": "2014-01-04 11:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -244,10 +233,10 @@
 {
     "title": "Saint Laurent",
     "length": 150,
-    "rating": 0,
+    "rating": 2.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 12:30",
+        "start-time": "2014-01-04 12:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -255,10 +244,10 @@
 {
     "title": "To Kill a Man",
     "length": 82,
-    "rating": 0,
+    "rating": 0.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 13:00",
+        "start-time": "2014-01-04 13:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -266,10 +255,10 @@
 {
     "title": "Spring",
     "length": 109,
-    "rating": 0,
+    "rating": 3.9,
     "showtimes": [
       {
-        "start-time": "2014-04-01 13:30",
+        "start-time": "2014-01-04 13:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -277,10 +266,10 @@
 {
     "title": "Walter",
     "length": 94,
-    "rating": 0,
+    "rating": 4.2,
     "showtimes": [
       {
-        "start-time": "2014-04-01 14:00",
+        "start-time": "2014-01-04 14:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -288,10 +277,10 @@
 {
     "title": "The Grandad",
     "length": 90,
-    "rating": 0,
+    "rating": 5.7,
     "showtimes": [
       {
-        "start-time": "2014-04-01 14:30",
+        "start-time": "2014-01-04 14:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -299,10 +288,10 @@
 {
     "title": "The Farewell Party",
     "length": 93,
-    "rating": 0,
+    "rating": 0.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 15:30",
+        "start-time": "2014-01-04 15:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -310,10 +299,10 @@
 {
     "title": "Charlie’s Country",
     "length": 108,
-    "rating": 0,
+    "rating": 5.8,
     "showtimes": [
       {
-        "start-time": "2014-04-01 16:00",
+        "start-time": "2014-01-04 16:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -321,10 +310,10 @@
 {
     "title": "Accused",
     "length": 97,
-    "rating": 0,
+    "rating": 5.5,
     "showtimes": [
       {
-        "start-time": "2014-04-01 16:30",
+        "start-time": "2014-01-04 16:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -332,10 +321,10 @@
 {
     "title": "Cowboys",
     "length": 107,
-    "rating": 0,
+    "rating": 5.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 17:00",
+        "start-time": "2014-01-04 17:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -343,10 +332,10 @@
 {
     "title": "Three Windows and a Hanging",
     "length": 93,
-    "rating": 0,
+    "rating": 3.4,
     "showtimes": [
       {
-        "start-time": "2014-04-01 17:30",
+        "start-time": "2014-01-04 17:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -354,10 +343,10 @@
 {
     "title": "See you in Montevideo",
     "length": 146,
-    "rating": 0,
+    "rating": 2.9,
     "showtimes": [
       {
-        "start-time": "2014-04-01 18:30",
+        "start-time": "2014-01-04 18:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -365,10 +354,10 @@
 {
     "title": "Güeros",
     "length": 106,
-    "rating": 0,
+    "rating": 4.2,
     "showtimes": [
       {
-        "start-time": "2014-04-01 19:00",
+        "start-time": "2014-01-04 19:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -376,10 +365,10 @@
 {
     "title": "The Dark Horse",
     "length": 124,
-    "rating": 0,
+    "rating": 5.8,
     "showtimes": [
       {
-        "start-time": "2014-04-01 19:00",
+        "start-time": "2014-01-04 19:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -387,10 +376,10 @@
  {
     "title": "In Her Place",
     "length": 115,
-    "rating": 0,
+    "rating": 4.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 20:00",
+        "start-time": "2014-01-04 20:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -398,10 +387,10 @@
 {
     "title": "Some Kind of Love",
     "length": 87,
-    "rating": 0,
+    "rating": 0.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 20:30",
+        "start-time": "2014-01-04 20:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -409,10 +398,10 @@
 {
     "title": "The Golden Era",
     "length": 178,
-    "rating": 0,
+    "rating": 0.0,
     "showtimes": [
       {
-        "start-time": "2014-04-01 09:30",
+        "start-time": "2014-01-04 09:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -420,153 +409,153 @@
   {
     "title": "Packed In A Trunk",
     "length": 78,
-    "rating": 0,
+    "rating": 0.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 10:30",
-        "theater": "Annberg"
+        "start-time": "2014-01-05 10:30",
+        "theater": "Annenberg Auditorium"
       }
     ]
   },
   {
     "title": "Winter Sleep",
     "length": 196,
-    "rating": 0,
+    "rating": 5.8,
     "showtimes": [
       {
-        "start-time": "2014-05-01 13:30",
-        "theater": "Annberg"
+        "start-time": "2014-01-05 13:30",
+        "theater": "Annenberg Auditorium"
       }
     ]
   },
   {
     "title": "Learning to Drive",
     "length": 105,
-    "rating": 0,
+    "rating": 6.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 19:30",
-        "theater": "Annberg"
+        "start-time": "2014-01-05 19:30",
+        "theater": "Annenberg Auditorium"
       }
     ]
   },
   {
     "title": "Back on Board: Greg Louganis",
     "length": 88,
-    "rating": 0,
+    "rating": 2.5,
     "showtimes": [
       {
-        "start-time": "2014-05-01 20:00",
-        "theater": "Camelot"
+        "start-time": "2014-01-05 20:00",
+        "theater": "Camelot Theatres"
       }
     ]
   },
  {
     "title": "Fidelio, Alice’s Journey",
     "length": 97,
-    "rating": 0,
+    "rating": 3.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 10:00",
-        "theater": "Camelot"
+        "start-time": "2014-01-05 10:00",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "Still Alice",
     "length": 101,
-    "rating": 0,
+    "rating": 0.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 11:00",
-        "theater": "Camelot"
+        "start-time": "2014-01-05 11:00",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "Accused",
     "length": 97,
-    "rating": 0,
+    "rating": 5.5,
     "showtimes": [
       {
-        "start-time": "2014-05-31 10:00",
-        "theater": "Camelot"
+        "start-time": "2014-01-05 10:00",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "Concrete Night",
     "length": 96,
-    "rating": 0,
+    "rating": 4.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 13:30",
-        "theater": "Camelot"
+        "start-time": "2014-01-05 13:30",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "Alleluia",
     "length": 93,
-    "rating": 0,
+    "rating": 4.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 14:00",
-        "theater": "Camelot"
+        "start-time": "2014-01-05 14:00",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "Dukhtar",
     "length": 93,
-    "rating":0,
+    "rating": 5.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 16:00",
-        "theater": "Camelot"
+        "start-time": "2014-01-05 16:00",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "Human Capital",
     "length": 111,
-    "rating": 0,
+    "rating": 5.5,
     "showtimes": [
       {
-        "start-time": "2014-05-01 17:00",
-        "theater": "Camelot"
+        "start-time": "2014-01-05 17:00",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "The Dark Valley",
     "length": 115,
-    "rating": 0,
+    "rating": 5.5,
     "showtimes": [
       {
-        "start-time": "2014-05-01 19:00",
-        "theater": "Camelot"
+        "start-time": "2014-01-05 19:00",
+        "theater": "Camelot Theatres"
       }
     ]
   },
 {
     "title": "NN",
     "length": 94,
-    "rating": 0,
+    "rating": 2.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 19:30",
-        "theater": "Camelot"
+        "start-time": "2014-01-05 19:30",
+        "theater": "Camelot Theatres"
       }
     ]
   },
   {
     "title": "The Guide",
     "length": 120,
-    "rating": 0,
+    "rating": 6.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 10:30",
+        "start-time": "2014-01-05 10:30",
         "theater": "Palm Canyon Theatre"
       }
     ]
@@ -574,10 +563,10 @@
 {
     "title": "Trespassing Bergman",
     "length": 107,
-    "rating": 0,
+    "rating": 4.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 13:30",
+        "start-time": "2014-01-05 13:30",
         "theater": "Palm Canyon Theatre"
       }
     ]
@@ -585,10 +574,10 @@
 {
     "title": "Haemoo",
     "length": 111,
-    "rating": 0,
+    "rating": 4.5,
     "showtimes": [
       {
-        "start-time": "2014-05-01 16:30",
+        "start-time": "2014-01-05 16:30",
         "theater": "Palm Canyon Theatre"
       }
     ]
@@ -596,10 +585,10 @@
 {
     "title": "Cut Snake",
     "length": 94,
-    "rating": 0,
+    "rating": 0.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 19:30",
+        "start-time": "2014-01-05 19:30",
         "theater": "Palm Canyon Theatre"
       }
     ]
@@ -607,10 +596,10 @@
 {
     "title": "Song of the Sea",
     "length": 94,
-    "rating": 0,
+    "rating": 4.6,
     "showtimes": [
       {
-        "start-time": "2014-05-01 16:00",
+        "start-time": "2014-01-05 16:00",
         "theater": "Palm Springs High School"
       }
     ]
@@ -618,10 +607,10 @@
 {
     "title": "24 Days",
     "length": 110,
-    "rating": 0,
+    "rating": 0.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 19:00",
+        "start-time": "2014-01-05 19:00",
         "theater": "Palm Springs High School"
       }
     ]
@@ -629,10 +618,10 @@
 {
     "title": "Sorrow and Joy",
     "length": 107,
-    "rating": 0,
+    "rating": 5.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 09:30",
+        "start-time": "2014-01-05 09:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -640,10 +629,10 @@
 {
     "title": "Two Days, One Night",
     "length": 95,
-    "rating": 0,
+    "rating": 5.7,
     "showtimes": [
       {
-        "start-time": "2014-05-01 10:00",
+        "start-time": "2014-01-05 10:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -651,10 +640,10 @@
 {
     "title": "The Lesson",
     "length": 107,
-    "rating": 0,
+    "rating": 5.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 10:30",
+        "start-time": "2014-01-05 10:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -662,10 +651,10 @@
 {
     "title": "In Her Place",
     "length": 115,
-    "rating": 0,
+    "rating": 4.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 11:00",
+        "start-time": "2014-01-05 11:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -673,10 +662,10 @@
 {
     "title": "These Are the Rules",
     "length": 78,
-    "rating": 0,
+    "rating": 3.5,
     "showtimes": [
       {
-        "start-time": "2014-05-01 11:30",
+        "start-time": "2014-01-05 11:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -684,10 +673,10 @@
 {
     "title": "Some Kind of Love",
     "length": 87,
-    "rating": 0,
+    "rating": 0.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 12:30",
+        "start-time": "2014-01-05 12:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -695,10 +684,10 @@
 {
     "title": "Song One",
     "length": 88,
-    "rating": 0,
+    "rating": 3.5,
     "showtimes": [
       {
-        "start-time": "2014-05-01 13:00",
+        "start-time": "2014-01-05 13:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -706,10 +695,10 @@
 {
     "title": "Fair Play",
     "length": 100,
-    "rating": 0,
+    "rating": 4.1,
     "showtimes": [
       {
-        "start-time": "2014-05-01 13:30",
+        "start-time": "2014-01-05 13:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -717,10 +706,10 @@
 {
     "title": "Timbuktu",
     "length": 97,
-    "rating": 0,
+    "rating": 5.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 14:00",
+        "start-time": "2014-01-05 14:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -728,10 +717,10 @@
 {
     "title": "The Japanese Dog",
     "length": 85,
-    "rating": 0,
+    "rating": 5.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 14:30",
+        "start-time": "2014-01-05 14:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -739,10 +728,10 @@
 {
     "title": "Liar’s Dice",
     "length": 104,
-    "rating": 0,
+    "rating": 3.5,
     "showtimes": [
       {
-        "start-time": "2014-05-01 15:30",
+        "start-time": "2014-01-05 15:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -750,10 +739,10 @@
 {
     "title": "Mommy",
     "length": 134,
-    "rating": 0,
+    "rating": 5.5,
     "showtimes": [
       {
-        "start-time": "2014-05-01 16:00",
+        "start-time": "2014-01-05 16:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -761,10 +750,10 @@
 {
     "title": "Rocks in My Pockets",
     "length": 89,
-    "rating": 0,
+    "rating": 5.5,
     "showtimes": [
       {
-        "start-time": "2014-05-01 16:30",
+        "start-time": "2014-01-05 16:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -772,10 +761,10 @@
 {
     "title": "Henri Henri",
     "length": 100,
-    "rating": 0,
+    "rating": 3.6,
     "showtimes": [
       {
-        "start-time": "2014-05-01 17:00",
+        "start-time": "2014-01-05 17:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -783,10 +772,10 @@
 {
     "title": "The Grandad",
     "length": 90,
-    "rating": 0,
+    "rating": 5.7,
     "showtimes": [
       {
-        "start-time": "2014-05-01 17:30",
+        "start-time": "2014-01-05 17:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -794,10 +783,10 @@
 {
     "title": "How I Got Over",
     "length": 87,
-    "rating": 0,
+    "rating": 3.5,
     "showtimes": [
       {
-        "start-time": "2014-05-01 18:30",
+        "start-time": "2014-01-05 18:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -805,10 +794,10 @@
 {
     "title": "Sand Dollars",
     "length": 85,
-    "rating": 0,
+    "rating": 4.0,
     "showtimes": [
       {
-        "start-time": "2014-05-01 19:30",
+        "start-time": "2014-01-05 19:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -816,10 +805,10 @@
 {
     "title": "Beloved Sisters",
     "length": 170,
-    "rating": 0,
+    "rating": 4.4,
     "showtimes": [
       {
-        "start-time": "2014-05-01 19:30",
+        "start-time": "2014-01-05 19:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -827,10 +816,10 @@
 {
     "title": "Backcountry",
     "length": 92,
-    "rating": 0,
+    "rating": 3.9,
     "showtimes": [
       {
-        "start-time": "2014-05-01 20:00",
+        "start-time": "2014-01-05 20:00",
         "theater": "Palm Springs Regal 9"
       }
     ]
@@ -838,10 +827,10 @@
 {
     "title": "Monsoon",
     "length": 108,
-    "rating": 0,
+    "rating": 3.8,
     "showtimes": [
       {
-        "start-time": "2014-05-01 20:30",
+        "start-time": "2014-01-05 20:30",
         "theater": "Palm Springs Regal 9"
       }
     ]
